@@ -17,3 +17,8 @@ GSTIN regex
 * The 13th digit will be the number of registration you take within a state i.e. after 9, A to Z is considered as 10 to 35 .
 * 14th digit will be Z by default.
 * Last would be the check code.
+
+
+[GST CheckSum](https://medium.com/@dhananjaygokhale/decoding-gst-number-checksum-digit-1ef2c8c53ad6)
+
+[Javascript checksum verification](https://github.com/tk120404/gst/blob/master/gstchecksum.js) 
