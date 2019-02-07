@@ -14,4 +14,7 @@ extension String
 
 }
 
+// place this file in to your project. this function is an extention of String class so can be accessed from anywhere.
+// print("27AAPFU0939F1Zv".isValidGSTIN()) 
+
 
