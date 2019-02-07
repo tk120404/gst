@@ -15,6 +15,6 @@ extension String
 }
 
 // place this file in to your project. this function is an extention of String class so can be accessed from anywhere.
-// print("27AAPFU0939F1Zv".isValidGSTIN())  //this GSTIN is invalid so will return false
+// print(""27AAPFU0939F1ZV"".isValidGSTIN())  //this GSTIN is valid so will return true, now you can go ahead and validate some GSTINs
 
-
+  
