@@ -21,5 +21,7 @@ GSTIN regex
 
 How to decode the [GST CheckSum](https://medium.com/@dhananjaygokhale/decoding-gst-number-checksum-digit-1ef2c8c53ad6)
 
-* [Javascript checksum verification](https://github.com/tk120404/gst/blob/master/gstchecksum.js) 
-* [Python Checksum verification](https://github.com/tk120404/gst/blob/master/GST_checksum.py)
+* [Javascript checksum verification](https://github.com/tk120404/gst/blob/master/gstChecksum.js) 
+* [Python Checksum verification](https://github.com/tk120404/gst/blob/master/gstChecksum.py)
+* [Swift Checksum verification](https://github.com/tk120404/gst/blob/master/gstChecksum.swift)
+
